@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>첫 배포 성공</title>
+</head>
+<body>
+  <h1>첫 배포 성공!</h1>
+  <p>이 페이지는 인터넷에 올라가 있습니다.</p>
+
+  <h2>나의 목표</h2>
+  <ul>
+    <li>SSAFY 16기 입과</li>
+    <li>클라우드 직무 전환</li>
+    <li>장기적으로 AI 기반 교육 서비스 창업</li>
+  </ul>
+</body>
+</html>
